@@ -1,0 +1,15 @@
+{
+  "name": "BlockchainByAli",
+  "version": "1.0.0",
+  "description": "This is a simple blockchain implementation using Node.js",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alireza Asadi",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
